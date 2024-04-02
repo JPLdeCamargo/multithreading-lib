@@ -1,4 +1,4 @@
-# PyGL
+# Simple multithreading lib
 Final group project for INE5412 - Operating Systems I, developed with @Brenda-Machado
 
 ## Dependencies
